@@ -4,5 +4,16 @@
   "artist": "Yusuke Murata ",
   "author": "ONE",
   "cover": "https://cdn.discordapp.com/attachments/842907724198182942/950222411926741032/Volume_24.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1646621429",
+      "groups": {
+        "": [
+          "https://xfs-008.batcg.com/7002/54d/60512d07be8cbb1010adfd45/4875096_860_1236_256142.jpeg?acc=rrH8DS_hqK2-qRPBhnGMOA&exp=1646686430"
+        ]
+      }
+    }
+  }
 }

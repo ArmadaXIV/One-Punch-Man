@@ -47,6 +47,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/YQVy7HX"
       }
+    },
+    "4": {
+      "title": "Dark Undergrounders ",
+      "volume": "1",
+      "last_updated": "1646699911",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/omqClvd"
+      }
+    },
+    "5": {
+      "title": "Itch Explosion ",
+      "volume": "1",
+      "last_updated": "1646700008",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/eVDmtDC"
+      }
     }
   }
 }

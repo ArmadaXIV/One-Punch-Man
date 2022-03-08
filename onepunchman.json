@@ -61,14 +61,24 @@
       "volume": "1",
       "last_updated": "1646700008",
       "groups": {
-        "":"/proxy/api/imgur/chapter/eVDmtDC"
+        "": "/proxy/api/imgur/chapter/HwONoV7"
+      }
+    },
+    "6": {
+      "title": "Saitama",
+      "volume": "1",
+      "last_updated": "1646704282",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/22HG9P5"
+      }
+    },
+    "7": {
+      "title": "Mysterious Raid",
+      "volume": "1",
+      "last_updated": "1646704397",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/lLzsK8c"
       }
     }
   }
-} 
-  
-  
- 
-                   
-                
-
+}

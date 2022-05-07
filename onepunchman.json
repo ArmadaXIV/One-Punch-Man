@@ -1615,6 +1615,18 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/wU7aLCX"
       }
+    },
+    "121.5": {
+      "title": "Back of my Head (Bonus Chapter)",
+      "volume": "25",
+      "last_updated": "1651945132",
+      "groups": {
+        "": [
+          "https://cdn.discordapp.com/attachments/842907724198182942/972553479899979786/03.png",
+          "https://cdn.discordapp.com/attachments/842907724198182942/972553480323596358/04.png",
+          "https://cdn.discordapp.com/attachments/842907724198182942/972553480713682965/05.png"
+        ]
+      }
     }
   }
 }

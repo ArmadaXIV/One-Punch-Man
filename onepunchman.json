@@ -1661,20 +1661,11 @@
       }
     },
     "127.5": {
-      "title": "The Great Selection (Bonus Chapter)",
+      "title": "Big Promotion (Bonus Chapter)",
       "volume": "26",
       "last_updated": "1655939782",
       "groups": {
-        "": [
-          "https://cdn.discordapp.com/attachments/200664991685279745/983723793711247431/e002.png",
-          "https://cdn.discordapp.com/attachments/200664991685279745/983723794122305586/e003.png",
-          "https://cdn.discordapp.com/attachments/200664991685279745/983723794671747082/e004.png",
-          "https://cdn.discordapp.com/attachments/200664991685279745/983723795061813258/e005.png",
-          "https://cdn.discordapp.com/attachments/200664991685279745/983723795347042314/e006.png",
-          "https://cdn.discordapp.com/attachments/200664991685279745/983723795615457330/e007.png",
-          "https://cdn.discordapp.com/attachments/200664991685279745/983723796030685204/e008.png",
-          "https://cdn.discordapp.com/attachments/200664991685279745/983723796416593950/e009.png"
-        ]
+        "": "/proxy/api/imgur/chapter/SxzgH9t"
       }
     }
   }

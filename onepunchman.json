@@ -1757,11 +1757,7 @@
       "volume": "25",
       "last_updated": "1651945132",
       "groups": {
-        "": [
-          "https://cdn.discordapp.com/attachments/917231042849558558/973139195293999114/03.png",
-          "https://cdn.discordapp.com/attachments/917231042253967420/973139203753914368/04.png",
-          "https://cdn.discordapp.com/attachments/917231041511559189/973139211177853018/05.png"
-        ]
+        "": "/proxy/api/imgur/chapter/KrmDFcY"
       }
     },
     "127.5": {

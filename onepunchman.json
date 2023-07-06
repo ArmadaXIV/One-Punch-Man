@@ -1837,6 +1837,19 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/UtBzmEW"
       }
+    },
+    "138.5": {
+      "title": "138.5",
+      "volume": "28",
+      "last_updated": "1688660114",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1g70ixg0q09WrtAgCG1EuYIFm4gs2iyaT",
+          "https://drive.google.com/uc?export=view&id=1rEBubvRDrwuwTj6arYNHnmcF2QkuNtw6",
+          "https://drive.google.com/uc?export=view&id=1GSZo9autWNnrZN01qXaM8wvWQTHz4iPO",
+          "https://drive.google.com/uc?export=view&id=1abxw3SJPEv0I8j3WITo08q71bVcWVCCO"
+        ]
+      }
     }
   }
 }

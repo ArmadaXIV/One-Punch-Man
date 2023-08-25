@@ -1348,7 +1348,9 @@
       "groups": {
         "": [
           "https://cdn.discordapp.com/attachments/842907724198182942/1144682540112818298/image.png",
-          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMvODQyOTA3NzI0MTk4MTgyOTQyLzExNDQ2ODI1NDAxMTI4MTgyOTgvaW1hZ2UucG5n"
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMvODQyOTA3NzI0MTk4MTgyOTQyLzExNDQ2ODI1NDAxMTI4MTgyOTgvaW1hZ2UucG5n",
+          "\"https://services.f-ck.me/v1/image/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMlMkY5MTcyMzEwNDAzNDEzNjQ3NTYlMkY5MTcyNTI3NDEwNjYyODA5OTAlMkZwXzEuanBn\",",
+          "\"https://services.f-ck.me/v1/image/aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20vYXR0YWNobWVudHMlMkY5MTcyMzEwMzI4MjA5NzM2MjglMkY5MTcyNTI3OTg1NzAyMDExMzglMkZwXzIuanBn\","
         ]
       }
     },

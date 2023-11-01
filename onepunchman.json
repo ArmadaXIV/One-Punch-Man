@@ -1555,7 +1555,7 @@
     },
     "139": {
       "title": "Abyss",
-      "volume": "",
+      "volume": "29",
       "last_updated": "1647295469",
       "groups": {
         "": "/proxy/api/imgur/chapter/wIFlHLW"
@@ -1563,7 +1563,7 @@
     },
     "140": {
       "title": "Stones and Diamonds ",
-      "volume": "",
+      "volume": "29",
       "last_updated": "1647295627",
       "groups": {
         "": "/proxy/api/imgur/chapter/AxARtTC"
@@ -1571,7 +1571,7 @@
     },
     "141": {
       "title": "Rejuvenated Offense",
-      "volume": "",
+      "volume": "29",
       "last_updated": "1647295824",
       "groups": {
         "": "/proxy/api/imgur/chapter/6sL9QyH"
@@ -1579,7 +1579,7 @@
     },
     "142": {
       "title": "How To Behave ",
-      "volume": "",
+      "volume": "29",
       "last_updated": "1647295844",
       "groups": {
         "": "/proxy/api/imgur/chapter/nkKdnuS"
@@ -1587,7 +1587,7 @@
     },
     "143": {
       "title": "Jupiter, The Bringer of Jollity ",
-      "volume": "",
+      "volume": "29",
       "last_updated": "1647295917",
       "groups": {
         "": "/proxy/api/imgur/chapter/EA42122"
@@ -1595,7 +1595,7 @@
     },
     "144": {
       "title": "Silver Fang",
-      "volume": "",
+      "volume": "29",
       "last_updated": "1647296176",
       "groups": {
         "": "/proxy/api/imgur/chapter/NnjAruF"
@@ -1603,7 +1603,7 @@
     },
     "145": {
       "title": "Superalloy Darkshine ",
-      "volume": "",
+      "volume": "29",
       "last_updated": "1647296277",
       "groups": {
         "": "/proxy/api/imgur/chapter/stxVJSJ"
@@ -2170,6 +2170,16 @@
           "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBvaWdhMS5wbmc",
           "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzVsNmMwai5wbmc",
           "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2NwYWgxcS5wbmc"
+        ]
+      }
+    },
+    "195": {
+      "title": "Heavenly Ninja Party",
+      "volume": "",
+      "last_updated": "1698850800",
+      "groups": {
+        "": [
+          ""
         ]
       }
     },

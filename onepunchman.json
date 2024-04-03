@@ -1700,7 +1700,7 @@
     },
     "146": {
       "title": "Backup",
-      "volume": "",
+      "volume": "30",
       "last_updated": "1647296289",
       "groups": {
         "": "/proxy/api/imgur/chapter/Prd7bSx"
@@ -1708,7 +1708,7 @@
     },
     "147": {
       "title": "Toxic Substance ",
-      "volume": "",
+      "volume": "30",
       "last_updated": "1647296389",
       "groups": {
         "": "/proxy/api/imgur/chapter/y7wVBAD"
@@ -1716,7 +1716,7 @@
     },
     "148": {
       "title": "The Line ",
-      "volume": "",
+      "volume": "30",
       "last_updated": "1647296523",
       "groups": {
         "": "/proxy/api/imgur/chapter/g4r2erK"
@@ -1724,7 +1724,7 @@
     },
     "149": {
       "title": "Ambush",
-      "volume": "",
+      "volume": "30",
       "last_updated": "1647296676",
       "groups": {
         "": "/proxy/api/imgur/chapter/gYSf54S"
@@ -1732,7 +1732,7 @@
     },
     "150": {
       "title": "Master and Disciple ",
-      "volume": "",
+      "volume": "30",
       "last_updated": "1647296736",
       "groups": {
         "": "/proxy/api/imgur/chapter/FH6c9dV"
@@ -1740,7 +1740,7 @@
     },
     "151": {
       "title": "The Greatest Obstacle ",
-      "volume": "",
+      "volume": "30",
       "last_updated": "1647296951",
       "groups": {
         "": "/proxy/api/imgur/chapter/Ks7Z5gk"
@@ -2602,7 +2602,7 @@
     },
     "202": {
       "title": "Partner",
-      "volume": "28",
+      "volume": "",
       "last_updated": "1708527600",
       "groups": {
         "": [
@@ -3008,7 +3008,7 @@
       }
     },
     "138.5": {
-      "title": "Olfaction ",
+      "title": "Olfaction (Bonus Chapter)",
       "volume": "28",
       "last_updated": "1688660114",
       "groups": {
@@ -3017,6 +3017,23 @@
           "https://drive.google.com/uc?export=view&id=1rEBubvRDrwuwTj6arYNHnmcF2QkuNtw6",
           "https://drive.google.com/uc?export=view&id=1GSZo9autWNnrZN01qXaM8wvWQTHz4iPO",
           "https://drive.google.com/uc?export=view&id=1abxw3SJPEv0I8j3WITo08q71bVcWVCCO"
+        ]
+      }
+    },
+    "151.5": {
+      "title": "The Style of A King (Bonus Chapter) ",
+      "volume": "30",
+      "last_updated": "1709481600",
+      "groups": {
+        "": [
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3huMHc0Yi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL20wNDQyeC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzhxbzR1ZC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2tibzJwOC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzAwc2huMy5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2tlOXhvMC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3psM2oxMS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3NlZThwbi5wbmc"
         ]
       }
     }

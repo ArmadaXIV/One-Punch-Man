@@ -3081,7 +3081,7 @@
     "24.5": {
       "title": "Prison (Bonus Chapter)",
       "volume": "4",
-      "last_updated": "1646872861",
+      "last_updated": "1375369200",
       "groups": {
         "": "/proxy/api/imgur/chapter/8qHNETa"
       }
@@ -3089,15 +3089,40 @@
     "20.5": {
       "title": "Recollection of a Summer (Bonus Chapter)",
       "volume": "3",
-      "last_updated": "1646871528",
+      "last_updated": "1365001200",
       "groups": {
-        "": "/proxy/api/imgur/chapter/2TOPyjO"
+        "": [
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3ZjYWU2bC5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzlybnZlcS5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL29nNG1mcS5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL202NXEzYi5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2h3dXdiOS5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2txcGw0by5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2gwams5OS5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBocDhkZi5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3FzZTB6bi5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2lucHptNC5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzk0eXY2ay5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3d5ZHRlZS5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3d5YzNmMS5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3UzcDM2Zy5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzl6NGI4ZC5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2hscnVrMS5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3YycGVyay5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzRhNGZrcS5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzQ4OW9zaC5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3U3bTB4Mi5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3RrNnQxbC5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBzd2U2My5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBuYWc4di5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3c0OWUzMS5wbmc"
+        ]
       }
     },
     "20.6": {
       "title": "A New Wind Blows (Bonus Chapter)",
       "volume": "3",
-      "last_updated": "1646871820",
+      "last_updated": "1365001200",
       "groups": {
         "": "/proxy/api/imgur/chapter/T6mYf5J"
       }
@@ -3105,7 +3130,7 @@
     "15.5": {
       "title": "Brushing Up (Bonus Chapter)",
       "volume": "2",
-      "last_updated": "1646797582",
+      "last_updated": "1354550400",
       "groups": {
         "": "/proxy/api/imgur/chapter/4tqgtC1"
       }
@@ -3113,7 +3138,7 @@
     "8.5": {
       "title": "200 Yen (Bonus Chapter)",
       "volume": "1",
-      "last_updated": "1646795322",
+      "last_updated": "1354550400",
       "groups": {
         "": [
           "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL20yNmZ4dC5qcGc",

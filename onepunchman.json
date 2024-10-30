@@ -1874,7 +1874,7 @@
     },
     "157": {
       "title": "Bad Boys",
-      "volume": "",
+      "volume": "32",
       "last_updated": "1647312195",
       "groups": {
         "": "/proxy/api/imgur/chapter/y9ga4Lx"
@@ -1882,7 +1882,7 @@
     },
     "158": {
       "title": "2Bad",
-      "volume": "",
+      "volume": "32",
       "last_updated": "1647312447",
       "groups": {
         "": "/proxy/api/imgur/chapter/9dk9eGI"
@@ -1890,7 +1890,7 @@
     },
     "159": {
       "title": "Blessing",
-      "volume": "",
+      "volume": "32",
       "last_updated": "1647312461",
       "groups": {
         "": "/proxy/api/imgur/chapter/osQ3XdX"
@@ -1898,7 +1898,7 @@
     },
     "160": {
       "title": "Divide",
-      "volume": "",
+      "volume": "32",
       "last_updated": "1647312507",
       "groups": {
         "": "/proxy/api/imgur/chapter/daPC4gp"
@@ -1906,7 +1906,7 @@
     },
     "161": {
       "title": "Sinking Feeling ",
-      "volume": "",
+      "volume": "32",
       "last_updated": "1648075435",
       "groups": {
         "": "/proxy/api/imgur/chapter/BwBLKGZ"
@@ -1914,7 +1914,7 @@
     },
     "162": {
       "title": "Greatest Hero ",
-      "volume": "",
+      "volume": "32",
       "last_updated": "1649285322",
       "groups": {
         "": "/proxy/api/imgur/chapter/RD67mxY"
@@ -2842,6 +2842,31 @@
           "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzV5NGI0aC5wbmc",
           "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3l3cHMwdS5wbmc",
           "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3J3d3RvOS5wbmc"
+        ]
+      }
+    },
+    "207": {
+      "title": "Bind",
+      "volume": "",
+      "last_updated": "1730300400",
+      "groups": {
+        "": [
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzV2aHQzdy5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzYzYm45ZS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2Z4ZGhpMS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3o3YWt1bi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL295czM0YS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzd2N3IyZS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3YxeWNlZi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL290MnM3bi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2V3MjB2MC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL25sOTI0MS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3V2eWpzZC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3NsMWdkbi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzFobjE1ci5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3RvNDZ0ai5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3RjaDMxZy5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3FxMTk2di5wbmc"
         ]
       }
     },

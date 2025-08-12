@@ -37,7 +37,24 @@
       "volume": "1",
       "last_updated": "1339945200",
       "groups": {
-        "": "/proxy/api/imgur/chapter/CAwtNm5"
+        "": [
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3VoOXF2Yi5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3FtdXpkNy5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2lvZGdyeC5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3hrOTZtaS5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzV4dHFray5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzJiZnJmdS5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2c1NjkyaC5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3k5OGVuYi5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzF6aGF1Zi5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzR3Z2M4cC5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2t6MnVweC5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2NvcWdmei5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBxaTRnMy5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL28zdWloYy5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzhsdHllMC5qcGc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL254aTB5MS5qcGc"
+        ]
       }
     },
     "3": {

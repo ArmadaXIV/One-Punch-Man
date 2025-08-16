@@ -3945,7 +3945,14 @@
       "volume": "16",
       "last_updated": "1522767600",
       "groups": {
-        "": "/proxy/api/imgur/chapter/js6p3Xg"
+        "": [
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2Q2OHZ3cS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzcyaHk3YS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBnMXo0Ny5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2I5ampoYS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3J6dmNlZi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2ZmbG83by5wbmc"
+        ]
       }
     },
     "80.5": {

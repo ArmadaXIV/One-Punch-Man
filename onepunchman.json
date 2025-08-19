@@ -2310,9 +2310,38 @@
     "113": {
       "title": "Fake ",
       "volume": "24",
-      "last_updated": "1647194440",
+      "last_updated": "1559314800",
       "groups": {
-        "": "/proxy/api/imgur/chapter/J07PuFC"
+        "": [
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2Z5ZmxmYi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzUxcGZ1OS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3hxempzbi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzR2OGF2eS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2Y0N3V0ai5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2IwM3p2My5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzRxdG1vay5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzNneDQyMC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2ZjY3BqbC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3l2MGRuZi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2JwN3ZiaS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3ZmMTlvMi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2l3YXU0bi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzg4YW51bS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3c4MXM2cC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzlsZDQ1by5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3M4OTJtbS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3E4OHZ1by5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3RqZTY2cy5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBrbGtiMy5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2xyNXZnei5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2RnaDhkMy5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzgzNTYzeS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzdpOWk1Yi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3FjaHR1cS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzNlcmo3eS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3BjZTh4cC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2gzeXVscy5wbmc"
+        ]
       }
     },
     "114": {
@@ -2326,9 +2355,37 @@
     "115": {
       "title": "Encounter",
       "volume": "25",
-      "last_updated": "1647195020",
+      "last_updated": "1645891200",
       "groups": {
-        "": "/proxy/api/imgur/chapter/Hy2LYb8"
+        "": [
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2xwZW4wbi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2E1bW1jOC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3prdW5rcC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3p1Nm5qZi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL291NjZkci5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3o4NDBwaS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL21tY200bC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3k1dmt6bi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2tzbHk3dS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2YxMGg5My5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzZpMmZoaS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzdzamx3Zi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3lwNXA5OC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzYxcXBiby5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3FiZ2xxZi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3VlbDg4Mi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzdjZXdvNi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzBkMjIwai5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzJ5ZDJvNi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2wxZ2FvdS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2Y4MGh5ai5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL29uMnd2MC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3h1YXY3ZC5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2J3empkZS5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3Bmc2x4ci5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzdldW56Zi5wbmc",
+          "https://services.f-ck.me/v1/image/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzF1MmxnNi5wbmc"
+        ]
       }
     },
     "116": {
